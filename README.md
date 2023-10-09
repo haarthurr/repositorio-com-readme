@@ -2,7 +2,7 @@
 Um projeto de teste com um arquivo README 
 🚀
 <br>
-<img src="" alt="">
+<img src="./Teste.gif" alt="Um exemplo que da pra colocar imagem/gif">
 <br>
 ## Tecnologias utilizadas
 - HTML
